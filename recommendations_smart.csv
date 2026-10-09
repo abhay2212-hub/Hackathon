@@ -1,0 +1,11 @@
+clock,id,congested_road,waiting,vehicles_affected,old_route_s,best_route,best_route_s,saving_s,status,diverted
+07:17,1,E4,9,11,331,-E2 > E3 > E9 > E10 > E12 > E14,59,272,applied,6
+07:17,2,E6,9,17,294,E4 > E5 > E10 > E12 > E14,205,89,applied,11
+07:19,3,E6,10,24,266,-E2 > E3 > E9 > E10 > E12 > E13,171,95,applied,13
+07:20,4,E6,9,22,57,E4 > E5 > E10 > E12 > E13,40,16,applied,10
+07:21,5,E4,11,13,673,-E2 > E3 > E9 > -E5 > E6 > E13,82,591,applied,3
+07:22,6,E4,9,13,361,-E2 > E3 > E9 > E10 > E12 > E13,77,283,applied,4
+07:22,7,E6,10,15,119,E4 > E5 > E10 > E12 > E13,35,84,applied,8
+07:23,8,E6,11,17,610,-E5 > -E4 > E3 > E9 > E10 > E12 > E13,40,570,applied,7
+07:23,9,E6,12,17,171,E4 > E5 > E10 > E12 > E13,50,120,applied,13
+07:25,10,E4,11,14,734,-E2 > E3 > E9 > E10 > E12 > E13,96,638,applied,6
