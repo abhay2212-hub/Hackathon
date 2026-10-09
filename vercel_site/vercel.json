@@ -1,7 +1,0 @@
-cat > vercel_site/vercel.json << 'EOF'
-{
-  "headers": [
-    { "source": "/(.*)", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
-  ]
-}
-EOF
