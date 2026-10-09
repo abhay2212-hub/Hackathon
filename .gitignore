@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 netlify_site/
-vercel_site/
 tripinfo_*.xml
 live_state_*.json
 log_*.txt
